@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeok1003)]
-[![Hyeok1003 GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeok1003&show_icons=true&theme=dark)]
+[![Hyeok1003 GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeok1003&theme=dark)]
 
 
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
