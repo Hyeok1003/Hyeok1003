@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 ![py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jmh67686)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jmh67686)(https://solved.ac/jmh67686)]
