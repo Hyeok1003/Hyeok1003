@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeok1003&layout=compact&theme=dark)
-
 ![Hyeok1003 GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeok1003&theme=dark)
 
 
@@ -26,4 +25,5 @@ Here are some ideas to get you started:
 ![py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jmh67686)(https://solved.ac/jmh67686)]
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jmh67686)
+(https://solved.ac/jmh67686)
