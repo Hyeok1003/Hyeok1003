@@ -1,8 +1,9 @@
 # 끝없이 탐구하는 자 👋
 
 ## ⚡수상경력
-2023 영남이공대학교 아이디어톤 우수상  
-2023 영남이공대학교 창의코딩 대회 은상
+2023 영남이공대학교 아이디어톤 **우수상**  
+2023 영남이공대학교 창의코딩 대회 **은상**  
+
 
 ## 🤔Skill
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -33,6 +34,7 @@ Here are some ideas to get you started:
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jmh67686)
 (https://solved.ac/jmh67686)
+
 
 ## 🔭자격증
 컴퓨터 응용 선반 기능사  
