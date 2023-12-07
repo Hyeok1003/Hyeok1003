@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jmh67686)
-[Solved 프로필](https://solved.ac/profile/jmh67686) ![이미지](./백종원이게뭐야.jpg)
+[Solved 프로필](https://solved.ac/profile/jmh67686)  
+![이미지](./백종원이게뭐야.jpg)
 
 
 ## 🔭자격증
