@@ -1,4 +1,10 @@
 ### Hi there 👋
+
+## 수상경력
+2023 영남이공대학교 아이디어톤 우수상
+2023 영남이공대학교 창의코딩 대회 은상
+
+## Skill
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -27,3 +33,14 @@ Here are some ideas to get you started:
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jmh67686)
 (https://solved.ac/jmh67686)
+
+## 자격증
+컴퓨터 응용 선반 기능사
+전산 응용 기계제도 기능사
+공유압 기능사
+용접 기능사
+특수 용접 기능사
+정보처리 기능사
+생산 자동화 기능사
+컴퓨터 활용 2급
+ITQ Master
