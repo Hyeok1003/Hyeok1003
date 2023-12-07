@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jmh67686)
-[Solved 프로필](https://solved.ac/jmh67686)
+[Solved 프로필](https://solved.ac/profile/jmh67686)
 
 
 ## 🔭자격증
