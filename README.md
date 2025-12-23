@@ -1,6 +1,10 @@
 # 끝없이 탐구하는 자 👋
 
 ## ⚡수상경력
+2025 경북게임잼 온더트립 **최우수상**
+2025 제4회 국제 대학생 EV 자율주행 경진대회 **한전KDN 사장상**
+2024 영남이공대학교 창의코딩 경진대회 **대상**
+2024 Thailand Inventor's Day **동상**
 2023 영남이공대학교 아이디어톤 **우수상**  
 2023 영남이공대학교 창의코딩 대회 **은상**  
 
@@ -34,7 +38,6 @@ Here are some ideas to get you started:
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jmh67686)
 [Solved 프로필](https://solved.ac/profile/jmh67686)  
-![이미지](./백종원이게뭐야.jpg)
 
 
 ## 🔭자격증
